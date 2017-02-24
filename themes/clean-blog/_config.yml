@@ -2,7 +2,7 @@
 menu:
   # Home: /
    About: /about.html
-   Archives: /archives
+  # Archives: /archives
   # Github:
   #   url: https://github.com/klugjo/hexo-theme-clean-blog
   #   icon: github
