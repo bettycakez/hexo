@@ -1,0 +1,247 @@
+<html>
+
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
+</head>
+
+<body>
+  <div class="click"></div>
+  <div class="text-container">
+    <h1>Happy Valentine's<br><span>kiss kiss</span></h1>
+    <h2>for Betty
+    </h2>
+    <h3>February 2017</h3>
+    <div id="card">
+      When I'm with you it's always bliss
+      <br>
+      But when we're apart I start to miss
+      <br>
+      The times we're together and reminisce
+      <br>
+      But I'll soon be there so lets kiss kiss
+    </div>
+    <svg version="1.1" id="smile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+      viewBox="0 0 75 75" enable-background="new 0 0 75 75" xml:space="preserve" width="40px" height="40px">
+      <g>
+        <g>
+          <path fill="none" stroke="#F5F1DA" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M17.7,26.5
+			c4.1-4.1,10.6-4.1,14.7,0" />
+          <path fill="none" stroke="#F5F1DA" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M42.6,26.5
+			c4.1-4.1,10.6-4.1,14.7,0" />
+        </g>
+        <path fill="none" stroke="#F5F1DA" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M56.8,49
+		c-10.7,10.8-28,10.8-38.8,0" />
+      </g>
+      <g>
+        <path fill="#F5F1DA" d="M37.5,3C56.5,3,72,18.5,72,37.5S56.5,72,37.5,72S3,56.5,3,37.5S18.5,3,37.5,3 M37.5,0C16.8,0,0,16.8,0,37.5
+		S16.8,75,37.5,75S75,58.2,75,37.5S58.2,0,37.5,0L37.5,0z" />
+      </g>
+    </svg>
+  </div>
+  <div class="slide1">
+    <div class="heart-container">
+      <svg version="1.1" id="heart" class="pulse-anim" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px" y="0px" width="299px" height="252px" viewBox="0 0 299 252" enable-background="new 0 0 299 252" xml:space="preserve">
+        <path fill="#F54263" d="M248.078,5.883c-36.691-14.739-77.771-0.839-98.517,31.125C128.817,5.044,87.735-8.856,51.043,5.883
+	C9.354,22.632-10.863,70.009,5.887,111.696c16.06,39.98,143.314,139.607,143.314,139.607l0.359,0.28l0.36-0.28
+	c0,0,127.251-99.627,143.314-139.607C309.986,70.009,289.768,22.632,248.078,5.883z" />
+      </svg>
+    </div>
+  </div>
+</body>
+<style>
+  @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+  #card {
+    border-radius: 25px;
+    opacity: 0;
+    z-index: 1;
+    position: relative;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 280px;
+    background-color: #faebd7;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    color: rgba(0, 0, 0, 0.7);
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    font-family: 'Cardo', serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 50px;
+  }
+  
+  h1,
+  h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+  }
+  
+  h1 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    color: rgba(0, 0, 0, .5);
+    top: 16%;
+  }
+  
+  h2 {
+    bottom: 12%;
+    font-size: 12px;
+    font-size: 1.0rem;
+    color: rgba(0, 0, 0, .5);
+  }
+  h3 {
+    bottom: 8%;
+    font-size: 10px !important;
+    font-size: 1.0rem;
+    color: rgba(0, 0, 0, .5);
+  }
+  html {
+    width: 100%;
+    height: 100%;
+    background-color: #eee;
+  }
+  
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+  
+  .click {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+  }
+  
+  .slide1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .text-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+  
+  .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    z-index: 3;
+    opacity: 0;
+    font-family: "Poiret One";
+    font-size: 2.7em;
+    color: #F5F1DA;
+  }
+  
+  .heart-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+  }
+  
+  span {
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+    display: block;
+    font-size: 0.5em;
+  }
+  
+  .name {
+    display: inline-block;
+    margin-bottom: 7px;
+  }
+  
+  #smile {
+    margin-top: 20px;
+    -webkit-transform: translateY(10px);
+  }
+  
+  .pulse-anim {
+    -webkit-animation: pulse 0.8s infinite;
+  }
+  
+  path {
+    transition: fill .4s ease;
+  }
+  
+  .explode-anim {
+    -webkit-animation: explode 1s;
+    -webkit-animation-fill-mode: forwards;
+    fill: white;
+  }
+  
+  .fadeIn {
+    -webkit-animation: fadeIn 1s;
+    -webkit-animation-fill-mode: forwards;
+  }
+  
+  @-webkit-keyframes explode {
+    0% {
+      -webkit-transform: scale(0.5, 0.5);
+    }
+    100% {
+      -webkit-transform: scale(10, 10)
+    }
+  }
+  
+  @-webkit-keyframes pulse {
+    0% {
+      -webkit-transform: scale(0.4, 0.4);
+    }
+    35% {
+      -webkit-transform: scale(0.5, 0.5);
+    }
+    50% {
+      -webkit-transform: scale(0.45, 0.45);
+    }
+    65% {
+      -webkit-transform: scale(0.5, 0.5);
+    }
+    100% {
+      -webkit-transform: scale(0.4, 0.4);
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    60% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+  crossorigin="anonymous"></script>
+<script>
+  $('.click').on('click', function () {
+    $('#heart').attr('class', 'explode-anim');
+    $('.text').addClass('fadeIn');
+    $('#card').addClass('fadeIn');
+  });
+</script>
