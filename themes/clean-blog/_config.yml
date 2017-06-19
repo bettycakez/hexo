@@ -27,13 +27,13 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: 'UA-86410768-1'
 
 # Addthis ID
 addthis:
 
 # set your own favicon
-favicon: img/favicon.png
+favicon: /img/favicon.png
 
 # Social Accounts
 twitter_url:

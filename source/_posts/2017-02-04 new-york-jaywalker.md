@@ -1,6 +1,6 @@
 ---
-title: One Week in New York
-subtitle: Three lessons for your career and jaywalking
+title: Career Advice from a New Grad
+subtitle: Lessons learned while jaywalking
 date: 2017-02-04 18:45:52
 tags:
 ---
@@ -10,7 +10,7 @@ It’s been a week since I’ve become a bona fide, working New Yorker, and I’
 
 Like acclimating to any new job, I’ve stepped in with caution and care, eager to make the best first impression I can. I have a new supervisor and team dynamic to adjust to, a clean slate chalk-full of expectations, and an extensive list of acronyms to familiarize with. But it’s hard not to feel the paramount pressure and overwhelming anxiety of “Am I doing this right?” And outside of my work, getting to and from my office I have discovered “New York jaywalking” (which is a separate classification of jaywalking). Jaywalking in New York is the norm; I was shocked on my first day here to see pedestrians crossing red lights in plain sight of NYPD officers without as much as a scolding. But I’ve also learned that jaywalking in New York is both an art and a sport – like jumping into a new job, it takes skill, finesse, and ample amounts of courage. 
 
-And as I acquaint myself with both this art-sport form of sorts and work, I’ve noticed amusing similarities in how I approach them. As a week-old New York jaywalker and a working professional, here are 3 lessons I’ve learned:  
+And as I acquaint myself with both this art-sport form of sorts and work, I’ve noticed amusing similarities in how I approach them. As a week-old New York jaywalker and a working professional, here are 3 lessons I've learned:  
 
 1.	**Hit the ground running:** You’re never going to get anywhere in the Big Apple if you don’t assert your dominance over other pedestrians, cyclists, motor vehicles, and pretty much anything moving on the City streetscapes. The extensive grid system means that every 40 steps in any direction, you come upon another intersection. So be fast and be confident. My first few days on the job, I had 5 meetings scheduled into my calendar. I went in expecting nothing more than lighthearted introductions and to be a fly on the wall; I walked out with a heapful of deliverables to accomplish. No matter if it’s your first day, last day, or the days in between, expectations of your commitment to the job are the same; so be a proactive contributor who strives to make a big impact. 
 
