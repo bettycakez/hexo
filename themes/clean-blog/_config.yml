@@ -1,17 +1,15 @@
 # Header
 menu:
-  # Home: /
-   About: /about.html
-  # Archives: /archives
-  # Github:
-  #   url: https://github.com/klugjo/hexo-theme-clean-blog
-  #   icon: github
+   Blog: /blog
+   Memo: /memo
+   Contact: /contact
+   
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title:
+menu_title: bc
 
 # URL of the Home page image
-index_cover: /img/background_banner.png
+index_cover:
 
 # Default post title
 default_post_title: Untitled
