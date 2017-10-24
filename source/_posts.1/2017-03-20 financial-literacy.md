@@ -1,0 +1,42 @@
+---
+title: Teaching Financial Literacy in Schools
+subtitle: Money skills are life skills
+date: 2017-03-20 00:12:04
+tags:
+---
+ 
+This year is the first time in 18 years, accounting for 82% of my life so far, that I am no longer a student - in the formal sense, at least. In Canada, education is overseen by the provinces, and I grew up a product of the Ontario and Quebec public school systems. I fully appreciate many aspects of the quality public schooling I’ve received such as free primary and secondary education, stellar teachers, reasonably small class sizes, and specialized programs like the [CyberARTs](http://www.cyberarts.ca/) and [Gifted programs](http://www.tdsb.on.ca/Findyour/School/GiftedProgramSchoolFinder.aspx) that honed my interests and abilities. But my education wasn’t perfect, and among the improvements that could have been made were the teaching of essential “life skills” I’ve had to learn on my own that I wish had been taught to me in school.
+
+## <span style="color: #0098CB">What is school for?</span>
+
+I would categorize the three different types of skillsets taught in school as: 
+1. **Specialized skills.** Most obviously, we go to school to prepare us for the workforce. And for many of our career aspirations, we need specialized skills which are taught and certified in school. This becomes more and more apparent in post-secondary education: we spend three years in law school learning about torts, contracts, and civil procedures to practice law; we learn to code in various programming languages to become a software engineer. For me, taking the prerequisite biology, chemistry, and math courses in Grade 12 allowed me to apply to Biochemistry programs for college; consequently, graduating with a Bachelor degree in Biochemistry opened the doors for me to conduct scientific research, or apply to medical programs.
+2. **Soft skills.** Soft skills like teamwork, leadership, and good communication are not always explicitly taught in school, but are inevitably facilitated as byproducts of the classroom environment. A perfect example is group projects. To complete an English project or conduct a lab experiment, students are put into groups where they must work cooperatively, communicate openly and clearly, practice public speaking, and exhibit time management and responsibility to meet project deadlines and turn in good deliverables. 
+3. **Essential life skills.** What the signs of puberty are. How babies are made. How to deal with stress and anxiety. When taxes should be filed. These skills and knowledge are “must-knows” for everyone, and not just “nice-to-knows”; and, what I categorize as “essential life skills” that all children should be taught and have access to. Recently, in 2015, the Ontario government revised the sexual education curriculum in a long-overdue move which now incorporates learning about consent, same-sex relationships, sexting, gender-expression, STIs, and masturbation. This move garnered some protest from concerned parents, but my response to those critics would be that there is a 1% chance that your child will be using trig functions in 20 years, but there is a 99.9% chance that your child will be having sex. Thus, sex ed is an essential life skill. 
+
+Essential skills like sexual and mental health education should be made compulsory for every child, in the primary and secondary curricula at the least. And indeed, improvements are being made across the provinces like in Ontario’s updated [Health and Physical Education Curriculum](https://www.ontario.ca/page/sex-education-ontario). 
+
+But are there any essential life skills that are being ignored completely in curricula? 
+ 
+## <span style="color: #0098CB">Building a strong foundation for financial literacy</span>
+
+![financial literacy meme](/img/2017-03-20 financial-literacy-meme.png)
+[*Image Source*](http://dailypicdump.com/media/20160725/highschool-relatable-parabolas-taxes.jpg)
+
+In third grade, I asked my parents if I could get a credit card because I wanted “free money”. In college, I struggled to budget my allowance for food, rent, and my shameful shopping addiction. In 2015, I decided that it was high time to do my own taxes, when I came to the poignant realization that I had no clue how. And ever since starting full-time work earning a steady income, I’ve been struck by additional hurdles and questions: How much should I be saving from my income? What is my retirement plan? What are insurance premiums? 
+
+Turns out, these financial struggles are common amongst young Canadians. A [2015 report](https://www.theglobeandmail.com/globe-investor/personal-finance/genymoney/curriculum-changes-aim-to-help-high-school-students-with-financial-literacy/article34670871/) by CIBC found that 82% of Canadians between 18 and 34 felt they lacked financial knowledge and investing confidence, and a [2014 study](http://www.statcan.gc.ca/daily-quotidien/160323/dq160323b-eng.htm) conducted by Statistics Canada revealed that only 22% of men and 15% of women were able to provide correct responses to 5 key financial literacy questions. Furthermore, the latter study emphasized the startling gender gap in financial knowledge in which men scored higher than women, and that this gap became more pronounced among older and more educated Canadians. These statistics reflect an urgent need for young Canadians to build a strong foundation and form good habits early on of making financially responsible decisions. In our modern economy, it is important know the worth of a dollar, and how to make and manage money to guarantee survival at the least, happiness at the most, and comfort in between.
+
+It is especially important to teach financial management skills before postsecondary because in college and university, education is no longer free. Students should learn in secondary school when preparing for their college applications and career trajectories the lessons that will make their transition to a new independence and more responsibility easier: how much tuition costs; how to save, take out loans, apply to scholarships to pay for college; and how to budget for costs while living away from home. This is even more pertinent with the rising costs of tuition, where on average, undergraduates paid 40% more tuition in 2015 than they did 10 years ago according to [Statistics Canada](http://www.statcan.gc.ca/daily-quotidien/160907/dq160907a-eng.htm). 
+
+Lastly, financial literacy and personal finance takes technical skills that aren’t always easy to learn and understand on our own, and that our caregivers don’t always have the skills to teach us. How to create a good budget in Excel for example, was something that I struggled with, even with the many YouTube tutorials and internet resources at my disposal. And to the question of “How much should I be saving?” I wasn’t aware of the 50-20-30 rule until a month ago. 
+
+On a tangent, the 50-20-30 rule is a generalized guideline as to how much you should be saving and spending: 50% on fixed costs, 20% on financial savings/goals, and 30% on flexible spending. I was curious as to how I was faring compared to this benchmark since moving to New York in January, and so I crunched the numbers and found the below:
+
+![Betty's budgeting of income](/img/2017-03-20 budgeting-income.jpg)
+
+## <span style="color: #0098CB">Ontario government reform for careers skills</span>
+
+It turns out that the Ontario government is on the same page of thinking. This week, the Ministry of Education revealed [their plan](https://www.thestar.com/news/gta/2017/03/23/ontario-launches-plan-to-teach-high-school-kids-financial-skills.html) to roll out an updated Grade 10 careers course in 28 pilot high schools, laying the groundwork for financial literacy to become part of the mandatory, core curriculum. The course looks to teach financial skills, along with entrepreneurship, digital literacy, and career and life planning. 
+
+This is exciting, and a good first step to embedding essential money skills into schools systems; but there is much work to be done. Having policies and programs in place are important, but it is also pertinent to ensure quality and consistency of the financial skills curricula across schools, school boards and provinces. Most importantly, children must be able to see the relevance of the coursework to their daily lives - **that making financially responsible decisions is a life skill**. 

@@ -1,0 +1,30 @@
+---
+title: Innovations for Poverty
+subtitle: The power of the internet
+date: 2017-10-04 07:44:13
+tags:
+---
+![Worldwide internet connectivity](/img/2017-10-04-world-internet-access.png)
+*Above: [World internet usage and population statistics](http://www.internetworldstats.com/stats.htm) as of June 30, 2017.*
+
+Since 2000, the number of internet users has grown rapidly by 976% to [3.9 billion users](http://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) as of June 2017, more than half the world’s population. Access to the internet has huge potential to serve as an inexpensive, sustainable, and scalable solution in which governments, development organizations, and corporates can deliver information and services to citizens, addressing prominent issues including nutrition, education, and health.
+
+In Pakistan, where rural areas often suffer from physician shortages, [DoctHERs](http://www.docthers.com/) provides residents with quality healthcare through online video consultations. In sub-Saharan Africa where over [one-fifth of children](http://uis.unesco.org/en/news/263-million-children-and-youth-are-out-school) between the ages of 6-11 are out of school, [Samaskull](http://www.samaskull.com/) provides unlimited educational materials through interactive Massive Open Online Courses (MOOCs), “made by Africans, for Africans”. [SMS BIZ](https://www.youtube.com/watch?v=K1-ulrLjt0E), UNICEF’s digital youth engagement platform addresses the high rates of HIV/AIDS and early pregnancy amongst girls and young women in Mozambique by providing them with sexual and reproductive health info through an online and SMS-based peer counsel service.
+
+The case is clear. The internet has huge potential to help break the cycle of poverty by supporting existing and new, innovative models of programming alike, ultimately catalyzing better results for the most vulnerable communities and populations. The question then becomes: **Why don’t we see more internet-based solutions to end poverty?**
+
+The underutilization of the internet and other ICT-based solutions stems from three main reasons:
+        
+![Facebook's Aquila](/img/2017-10-04-aquila.jpeg)
+*Above: Projects like Aquila, a solar-powered aircraft part of Facebook’s [Internet.org](https://info.internet.org/en/) have ambitious aims to provide internet connectivity globally.*
+
+1. **We need universal, affordable internet access.** Although more than half the world’s population has access to the Internet, the most impoverished communities in the developing world are ones without access; in fact, [70% of those lacking internet connection](https://www.brookings.edu/blog/techtank/2014/12/10/barriers-to-universal-internet-access/) are concentrated in just 20 countries due to barriers of internet access including affordability, infrastructure, lack of interest, and user capability. Efforts like Facebook’s [Internet.org](https://info.internet.org/en/) and Alphabet’s [Project Loon](https://x.company/loon/) are already paving the way for universal internet, including those living in rural areas and with disabilities, girls and women, and low-income households.
+
+2. **It’s not just business as usual; we need to think outside the box.** There is comfort and safety in sticking to what we know, including traditional methods of development programming. However, in a complex, dynamic world where the issues we face are ever-changing – from the rise of non-communicable diseases to global warming — we need solutions that adapt to these changes as well. Take [Zipline](https://www.theverge.com/2016/4/5/11367274/zipline-drone-delivery-rwanda-medicine-blood), a startup that is using drones to deliver drugs and medical supplies to health centres in Rwanda, a cost-efficient and faster solution to conventional supply chain models like trucks and planes.
+
+3. **We’re better when we work together.** There is a lack of communication, cooperation and coordination amongst development colleagues, governments, and ICT corporates to build scalable solutions to end poverty. It takes breaking down silos, public-private partnerships and piecing together all stakeholders’ expertise from the government’s understanding of country contexts to the ICT sector’s technology capabilities to build sustainable, human-centric innovations. The [Intel She Will Connect programme](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/mobile-learning-week/symposium/collaboration-for-africa-public-private-partnerships-for-success/) is a prime example of multi-sectoral partners like Intel, UNESCO and UN Women coming together to support young girls and women in STEM with training and career opportunities, with aims to close the internet gender gap where currently, [25% fewer women](http://www.unesco.org/new/en/unesco/themes/icts/m4ed/mobile-learning-week/symposium/collaboration-for-africa-public-private-partnerships-for-success/) are online than men in developing countries.
+
+![Facebook's Aquila](/img/2017-10-04-intel-women.jpg)
+*Above: Internet access includes providing access to girls and women, closing the digital gender divide. The ITU estimates that there are some [250 million fewer women](http://www.unwomen.org/en/news/stories/2016/9/press-release-itu-and-un-women-announce-global-partnership-for-gender-equality-in-the-digital-age) online than men.*
+
+As internet access increases steadily, with conservative estimates predicting nearly [4.1 billion users](http://www.gemalto.com/review/Pages/infographic-the-number-of-internet-users-by-2020.aspx) worldwide by 2020, it take building capacity of colleagues and building partnerships across sectors and stakeholders to invest in, develop, and scale internet-based solutions, ultimately catalyzing better results and progress. The internet is a powerful tool, which has great potential to support the global agenda to end poverty and address the rights and needs of the most vulnerable populations, empowering them towards a **brighter, more connected future.**
