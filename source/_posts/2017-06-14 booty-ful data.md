@@ -69,4 +69,3 @@ Turns out, the answer is yes. Rap music is as misogynistic as my morning run lis
 
 
 [1] A whopping 23% of songs had explicit references to butts in the title of the "Workout Twerkout" playlist (as of June 14, 2017).
-[2] Misogynistic keywords were “ass”, “butt”, “hoe”, “bitch”, “pussy”, “sex”, “tit”.
