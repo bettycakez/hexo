@@ -1,15 +1,12 @@
 # Header
 menu:
-   Blog: /blog
-   Memo: /memo
-   Contact: /contact
-   
+  Blog: /blog
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: bc
 
 # URL of the Home page image
-index_cover:
+? index_cover
 
 # Default post title
 default_post_title: Untitled
@@ -17,28 +14,28 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  ? disqus_shortname
   # Facebook comments
   facebook:
-    appid:
+    ? appid
     comment_count: 5
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics: 'UA-86410768-1'
+google_analytics: "UA-86410768-1"
 
 # Addthis ID
-addthis:
+? addthis
 
 # set your own favicon
 favicon: /img/favicon.png
 
 # Social Accounts
-twitter_url:
-twitter_handle:
+? twitter_url
+? twitter_handle
 facebook_url: https://www.facebook.com/bettycakez
-github_url:
-gitlab_url:
+? github_url
+? gitlab_url
 instagram_url: https://www.instagram.com/bettycakez/
 linkedin_url: https://www.linkedin.com/in/betchang/
 mailto: betty.chang@mail.mcgill.ca

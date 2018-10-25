@@ -1,0 +1,70 @@
+body.is-preload .banner.onload-content-fade-right .content {
+  opacity: 1 !important;
+}
+
+body.is-preload .banner.onload-content-fade-right div.image img {
+  opacity: 1 !important;
+}
+
+.banner.style1 .content {
+  padding: 7rem 4rem 5rem 4rem !important;
+}
+
+div#wrapper section.banner div.content h1 {
+  font-size: 5rem;
+}
+
+div#wrapper section.banner div.content p.major {
+  font-size: 2rem;
+}
+
+div#wrapper section.banner div.content ul.actions {
+  text-align: center;
+  padding-top: 20px;
+}
+
+div#wrapper section.banner div.content ul.actions li a.button {
+  border-radius: 10px;
+  font-size: 1.5rem;
+}
+
+div#wrapper section.writing-section div.inner {
+  padding: 7rem 1rem 5rem 1rem;
+  width: 110rem;
+}
+
+div#wrapper section.writing-section div.inner a {
+  cursor: pointer;
+}
+
+div#wrapper section.writing-section h2 {
+  text-align: center;
+}
+
+div#wrapper section.writing-section hr {
+  border: none;
+  height: 1px;
+  background-color: black;
+  width: 100px;
+}
+
+div#wrapper section.art-section div.inner article {
+  width: 50rem;
+  max-height: 30rem;
+}
+
+body,
+input,
+select,
+textarea {
+  font-family: "Assistant", sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Abril Fatface", cursive !important;
+}
