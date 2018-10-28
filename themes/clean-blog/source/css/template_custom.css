@@ -53,6 +53,10 @@ div#wrapper section.art-section div.inner article {
   max-height: 30rem;
 }
 
+p.sub {
+  text-align: center;
+}
+
 body,
 input,
 select,
