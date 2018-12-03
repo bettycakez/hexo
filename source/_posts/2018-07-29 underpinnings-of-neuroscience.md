@@ -1,14 +1,14 @@
 ---
 title: The Underpinnings of Neuroscience
 subtitle: Exploring brain imaging with Dr. Sylvain Baillet
-date: 2018-04-22 20:57:36
+date: 2018-07-29 10:22:01
 tags:
 ---
 In college, I was a volunteer for [Brain Awareness Montréal](http://brainawarenessmontreal.com/), a non-profit that advocates for neuroscience education amongst students and youths. During my time, I had the immense privilege of meeting and working with some of the finest neuroscientists, neurosurgeons, nurses, and staff in the Montréal neuroscience community, including [Dr. Sylvain Baillet](https://www.mcgill.ca/neuro/research/researchers/baillet). Dr. Baillet who was one of my professors at McGill, and the inaugural Director of the magnetoencephalography (MEG) imaging core of the Neuro.
 
-I dug up the piece I wrote about him from the recesses of my harddrive while reviewing some old psychology course notes over the weekend. **Tip to soon-to-be graduates: As much as you're tempted to** ("In what situation will I ever have to know the memory systems and their anatomical loci?..") **never throw out your course notes.** 
+I dug up the piece I wrote about him from the recesses of my harddrive while reviewing some old neuroscience course notes over the weekend. **Tip to soon-to-be graduates: As much as you're tempted to** ("In what situation will I ever have to know the memory systems and their anatomical loci?..") **never throw out your course notes.** 
 
-Here is junior-year-of-college Betty writing about one of her role models at the time - and still today. 
+Here is junior-year-of-college Betty writing about one of her role models.
 
 -
 

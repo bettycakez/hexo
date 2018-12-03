@@ -1,0 +1,50 @@
+---
+title: Fixing the Civic-Political Cycle
+subtitle: Getting young people to the polls starts with giving them space in our communities
+date: 2018-10-20 23:01:34
+tags:
+---
+Young people haven’t been the most reliable at the polls. The turnout numbers tell a bleak history of how we’ve missed out on exercising our voting rights: [49%](https://www.census.gov/newsroom/blogs/random-samplings/2017/05/voting_in_america.html) in the 2016 presidential election; and during the last two midterms, a measly 18% and 14% cast our ballots. With the next midterm looming just weeks away, our politicians have split decidedly into three camps on what to do – or rather, not do – with us. 
+
+One side is banking that an “amoral” President has energized us to the polls. The second sees us as energy wasted, choosing to concentrate and spend campaign dollars on more reliable (read: older) groups. And some hope turnout remains low because we may likely be the deciding vote against them. All in all, our candidates seem to prefer spending their energy throwing low blows at one another rather than focusing on the issue-based politics we identify with.
+
+But crunching the numbers also reveals that it’s a gross miscalculation to not factor us into the equation. We make up [21%](https://civicyouth.org/quick-facts/youth-voting/) of eligible voters and now represent the most diverse and largest voting bloc in the electorate. 
+
+Traditional efforts targeted toward us have included registration drives stationed by every campus café and a Facebook [chatbot](https://www.campaignlive.com/article/r-ga-ad-council-built-voting-bot-drive-millennials-polls/1410831) that touts itself as the “answer to all [our] voting questions”. Although well-intentioned, focusing singularly on voter education fails to make the connection to the economy or healthcare or immigration. If the biggest barrier is figuring out how to vote, the second is perceiving that our vote will move the needle on the top-of-mind issues we care about.   
+
+Media coverage may try to spin it as such, but elections aren’t decided in a sensationalist, click-bait moment. It starts within our communities where we experience firsthand the impact of the issues we’re voting for. Paying six-figures for a four-year college degree could mean a vote for student loan relief. Intensifying floods and smog may translate to supporting a carbon tax. A broken arm could lead to a $20,000 hospital bill could lead to a vote for single-payer healthcare. 
+
+Thus, it’s no surprise that civic participation outside of the election process increases our likelihood of casting a ballot. 
+![](/img/2018-10-20-civic-political-cycle.png)
+Robert Putman, a Harvard professor and [“poet laureate of civil society”](https://www.nytimes.com/2015/03/08/books/review/our-kids-by-robert-d-putnam.html) noted that activities like volunteering and attending public consultations help us develop informed opinions and passions, and increases our social capital. These factors galvanize us into the political realm and to the polls. In turn, studies have shown that young people who vote are more likely to engage in the civic forum, reaching across the aisle to address issues, collaborate on solutions, and build a supportive community that welcomes diverse ideologies and beliefs.
+
+Currently, our virtuous civic-political cycle is broken. Across America, there has been a decline in memberships in local associations and in voter turnout. A lack of healthy conversation and debate have also exacerbated bipartisan polarization to the extremes. We’re being left out, alienated, and pushed down by our governments and communities who are making decisions for us – but without us. 
+
+These civic deserts disproportionately affect the underrepresented and marginalized – those of us living in poverty and in rural areas, with lower levels of education, and who are ethnic and racial minorities. 
+
+Bernie Sanders who won the youth vote in the 2016 Democratic primaries through an open, unapologetic platform that included single-payer health care, free public college, and racial, economic, and climate justice [noted](http://www.wbur.org/radioboston/2017/08/28/bernie-sanders-revolution), “[The system] is rigged against [young people]. But when you have a system that is rigged… you stand up and you fight back.”  
+In our communities, we’re carving our own spaces outside of the election process to rally around urgent issues. 
+
+The most notable example is the renewed attention on gun violence in the wake of the Parkland shooting. Activists like Emma Gonzalez, 18, and Cameron Kasky, 17, represent a class of new and soon-to-be voters. They’ve led us across the country and to the White House where more than [1.2 million protestors](https://www.vox.com/policy-and-politics/2018/3/26/17160646/march-for-our-lives-crowd-size-count) unified in support of stricter gun control laws under the Never Again banner. We’ve created physical and digital channels to mobilize at larger scales than ever before, prompting lawmakers, media outlets, and celebrities to stand with us. 
+
+Our voices contributed to the passage of the STOP School Violence Act and at least 55 new gun control laws across 26 states. Affirming this linkage in civic and political action is the surge in young voter registration across the country since Parkland. In Florida alone, the hike was 8%; and last month, turnout to the midterm primary in the state increased by [1.3 million voters](https://www.bustle.com/p/the-florida-primary-democratic-turnout-buoys-the-parkland-activists-work-10928993) compared to 2014. 
+
+Some local governments and organizations have caught on. Civic engagement strategies targeted towards young people have increased steadily, opening up “third spaces”, meeting grounds for young people and their communities to come together outside of school, work and home.
+
+Last year, New York City’s Neighborhood Innovation Lab launched the [Young Innovators Program](https://www1.nyc.gov/office-of-the-mayor/news/463-17/de-blasio-administration-launch-new-smart-city-technologies-young-innovators), an experimentation and education workshop where youth and government officials, educators, and tech companies tackle neighbourhood-specific challenges like environmental sustainability and food insecurity to co-create localized solutions. Planned Parenthood’s playbook has similarly tapped into its extensive community network as a powerful political force – [1.5 million young people](https://www.plannedparenthood.org/about-us/newsroom/press-releases/planned-parenthood-new-cdc-report-on-u-s-teens-sexual-behavior-illustrates-adolescents-continued-need-for-sex-education-and-effective-birth-control) rely on the organization for quality sex education every year and 1 in 3 women have visited a Planned Parenthood clinic. Where the Trump administration has moved to defund the organization and overturn Roe v. Wade, the organization launched [#IDEFY](https://www.plannedparenthood.org/about-us/newsroom/press-releases/planned-parenthood-announces-idefy-campaign-to-ensure-young-activist-future), a five-year effort to identify, train, and mobilize young people as activists to fight for affordable, comprehensive healthcare and education. 
+
+And it’s not just physical. Digital communities have become an extension of the spaces we inhabit. (Odds are you’re reading this on your phone or laptop, maybe through a Twitter or Facebook link.) Fostering online civic engagement provides an alternative or complementary channel to reach us; increases accessibility, transparency and accountability; and can potentially create targeted, personalized experiences based off our similar interests and activities. 
+
+Technology companies have already jumped on board, swayed by how digital platforms can translate citizen engagement into promising revenue streams. Google announced its beta launch of [Neighbourly](https://neighbourly.google.com/about/) in May, a social app envisioned as a crowdsourced city guide; and SF-based startup Nextdoor, “the social network for your neighbourhood community”, raised a hefty $75 million Series G round last year. 
+
+In Boston, the Mayor’s Office of New Urban Mechanics serves as a unique model for municipal governments to incubate and pilot civic tech projects. Some have been playfully endearing – in 2017, MONUM held a youth-led challenge to create new Pokéstops with the goal of enhancing cultural and community exploration. Others are more ambitious and long-term, such as a partnership with [Ioby](https://www.ioby.org/) (standing for “in our backyards”), a civic crowdfunding platform that connects people working on neighbourhood-level projects with community members who are interested in contributing. 
+
+Giving us the physical and digital spaces to raise our voice and take action on the issues we care about is a sure-fire strategy to embolden us to the polls, feeding into our virtuous civic-political cycle. 
+
+So to the “adults” in the room – including the candidates running in these midterms – our vote is important if you want to foster inclusive, empathetic communities, and uphold a democracy that represents every single citizen. If you want responsive policies and programs to both domestic and international challenges we face – from the opioid epidemic to shifting foreign relations.  If you want to pave the way for candidates like Alexandria Ocasio-Cortez and Stacey Abrams who reflect the American mosaic. 
+
+Our vote is important if you want to win. As Ocasio’s win showed, polls aren’t capturing us and the rest of the new electorate. 
+
+You should be strategizing to run campaigns (and your time in office) focused on the issues and not the color on your lapel. You have the opportunity to help set a gold standard for what meaningful youth engagement looks like in our communities, and create civic spaces that engage us at high levels of responsibility and decision-making.
+
+Meanwhile, we’re organizing ourselves. See you at the polls on November 6. 

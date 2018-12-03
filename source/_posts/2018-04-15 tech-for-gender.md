@@ -1,7 +1,7 @@
 ---
 title: The Key to the Women's Movement is Technology
 subtitle: 
-date: 2018-02-15 20:29:00
+date: 2018-04-15 20:29:00
 tags:
 ---
 ![girl power emojis](/img/2018-02-15 tech-for-gender-equality.jpg)

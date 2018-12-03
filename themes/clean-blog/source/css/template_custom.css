@@ -11,11 +11,12 @@ body.is-preload .banner.onload-content-fade-right div.image img {
 }
 
 div#wrapper section.banner div.content h1 {
-  font-size: 5rem;
+  font-size: 3rem;
+  letter-spacing: 0.65rem;
 }
 
 div#wrapper section.banner div.content p.major {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 div#wrapper section.banner div.content ul.actions {
@@ -37,8 +38,11 @@ div#wrapper section.writing-section div.inner a {
   cursor: pointer;
 }
 
-div#wrapper section.writing-section h2 {
+div#wrapper section.writing-section h2,
+div#wrapper section.art-section h2 {
   text-align: center;
+  font-size: 2.5rem;
+  letter-spacing: 0.65rem;
 }
 
 div#wrapper section.writing-section hr {
@@ -55,6 +59,7 @@ div#wrapper section.art-section div.inner article {
 
 p.sub {
   text-align: center;
+  font-size: 1.75rem;
 }
 
 body,
